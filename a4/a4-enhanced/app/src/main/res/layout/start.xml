@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/titlescreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center" android:background="@color/purple_500">
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text = "Welcome to Notes!"
+            android:gravity="center" android:textSize="30dp" android:textStyle="bold" android:textColor="@color/white"/>
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Click anywhere to start."
+            android:gravity="center" android:textSize="16dp" android:textColor="@color/white"/>
+    <ImageView android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/ic_baseline_sticky_note_2_24"/>
+</LinearLayout>
