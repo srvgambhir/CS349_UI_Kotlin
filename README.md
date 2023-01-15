@@ -1,3 +1,7 @@
+This is a repository containing the applications I created during CS349 - User Interfaces. The first three programs were desktop applications with various functionality (a notes app, a data graphing app, and a connect 4 game clone). The final program is an Android mobile app. All programs were created using Kotlin.
+
+Connect Four and Notes for Android included starter code from the University of Waterloo. In both programs, the Model in the MVC pattern was given.
+
 # A1 Notes
     Sarvesh Gambhir (s3gambhi 20841905)
  
